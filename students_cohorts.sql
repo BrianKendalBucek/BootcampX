@@ -16,6 +16,7 @@ CREATE TABLE students (
   cohort_id INTEGER REFERENCES cohorts(id) ON DELETE CASCADE
 );
 
+
 -- INSERT INTO famous_people (first_name, last_name, birthdate)
 --   VALUES ('Abraham', 'Lincoln', '1809-02-12');
 -- INSERT INTO famous_people (first_name, last_name, birthdate)
