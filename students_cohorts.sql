@@ -17,6 +17,8 @@ CREATE TABLE students (
 );
 
 
+
+
 -- INSERT INTO famous_people (first_name, last_name, birthdate)
 --   VALUES ('Abraham', 'Lincoln', '1809-02-12');
 -- INSERT INTO famous_people (first_name, last_name, birthdate)
